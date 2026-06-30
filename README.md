@@ -343,10 +343,6 @@ Bu proje MIT lisansı ile paylaşılmaktadır. Ayrıntılar için `LICENSE` dosy
 
 ---
 
-## İletişim
-
-Bu proje profesyonel portföy amacıyla hazırlanmıştır.
-
 - GitHub: `<github-profil-linki>`
 - LinkedIn: `<linkedin-profil-linki>`
 
