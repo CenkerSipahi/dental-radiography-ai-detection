@@ -1,0 +1,54 @@
+# Büyük / ham veri seti klasörleri
+# Ham veri seti README'de açıklanan kaynaklardan indirilip yerel olarak eklenmelidir.
+data/train/
+data/valid/
+data/test/
+data/*.cache
+
+# Eğitim ve tahmin çıktıları
+runs/
+notebooks/runs/
+notebooks/Dental_Project/
+Dental_Project/
+test_pics/*_result.*
+docs/results/demo_prediction_*.jpg
+
+# Model ağırlıkları
+# Portföy demosu için models/best.pt bilinçli olarak repoda tutulur.
+models/*.pt
+!models/best.pt
+yolov8n.pt
+notebooks/yolov8n.pt
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Sanal ortamlar
+.venv/
+venv/
+env/
+ENV/
+
+# Log ve geçici dosyalar
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
+
+# IDE / editör
+.vscode/
+.idea/

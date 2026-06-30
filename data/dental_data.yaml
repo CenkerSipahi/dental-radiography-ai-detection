@@ -1,0 +1,9 @@
+names:
+- Implant
+- Fillings
+- Impacted Tooth
+- Cavity
+nc: 4
+test: C:\Users\Cenker\Desktop\Projeler\1 - dental_dl_project\data\test
+train: C:\Users\Cenker\Desktop\Projeler\1 - dental_dl_project\data\train
+val: C:\Users\Cenker\Desktop\Projeler\1 - dental_dl_project\data\valid
