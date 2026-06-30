@@ -324,19 +324,3 @@ Veri setini yeniden kullanmadan önce ilgili veri kaynağının lisans koşullar
 Model çıktısı, `src/dental_ai/inference.py` içindeki yardımcı fonksiyonlarla özetlenir ve notebook/CLI üzerinde okunabilir hale getirilir.
 
 ---
-
-## Gelecekte Yapılabilecek Geliştirmeler
-
-- Daha büyük ve dengeli bir veri setiyle yeniden eğitim
-- Sınıf bazlı precision, recall ve mAP değerlerinin README içinde ayrıntılı sunulması
-- Grad-CAM veya benzeri açıklanabilir yapay zeka görselleştirmeleri
-- Basit web arayüzü veya Streamlit demo uygulaması
-- DICOM formatı desteği
-- Model kartı eklenmesi
-- Klinik doğrulama ve uzman değerlendirmesi ile kapsamlı test süreci
-
----
-- GitHub: `<github-profil-linki>`
-- LinkedIn: `<linkedin-profil-linki>`
-
-> Yukarıdaki bağlantıları GitHub'a yüklemeden önce kendi profil adreslerinizle güncelleyin.
