@@ -336,13 +336,6 @@ Model çıktısı, `src/dental_ai/inference.py` içindeki yardımcı fonksiyonla
 - Klinik doğrulama ve uzman değerlendirmesi ile kapsamlı test süreci
 
 ---
-
-## Lisans
-
-Bu proje MIT lisansı ile paylaşılmaktadır. Ayrıntılar için `LICENSE` dosyasını inceleyebilirsiniz.
-
----
-
 - GitHub: `<github-profil-linki>`
 - LinkedIn: `<linkedin-profil-linki>`
 
